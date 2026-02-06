@@ -59,3 +59,11 @@ python filename.py
 **Example:**
 python CodeAlpha_BasicChatbot.py
 
+---
+
+## Author
+Completed by Dineshwari.A, Python Programming Intern at CodeAlpha.
+
+---
+
+
